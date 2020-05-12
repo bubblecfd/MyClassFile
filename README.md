@@ -1,0 +1,2 @@
+# MyClassFile
+Python class projects
